@@ -4,7 +4,7 @@ Downloads arcade db files with support for internetarchive auth credentials.
 
 ## Instructions:
 
-```
+```sh
 # get to your Scripts folder
 $ cd /media/fat/Scripts
 
