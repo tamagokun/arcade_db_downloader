@@ -1,6 +1,6 @@
 # Arcade DB Downloader
 
-Downloads arcade db files with support for internetarchive auth credentials.
+Downloads arcade db files with support for internetarchive auth credentials. If IA is behaving properly, you should just use update_all, not this!
 
 ## Instructions:
 
