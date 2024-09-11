@@ -1,5 +1,7 @@
 # Arcade DB Downloader
 
+> The internet archive sometimes puts login restrictions on "high traffic" items.
+
 Downloads arcade db files with support for internetarchive auth credentials. If IA is behaving properly, you should just use update_all, not this!
 
 ## Instructions:
